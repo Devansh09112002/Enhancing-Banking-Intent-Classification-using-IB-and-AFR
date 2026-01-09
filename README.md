@@ -122,10 +122,6 @@ PyYAML
 ---
 
 ## Created By Bhashamates
-- Anuska Maity
 - Devansh Chaudhary
 - Evani Lalitha 
-
-
-
-
+- Anuska Maity
